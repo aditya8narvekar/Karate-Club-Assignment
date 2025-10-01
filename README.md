@@ -3,7 +3,7 @@
 This project is an analysis of the spectral modularity algorithm implemented in *Zachary's Karate Club network* to predict communities after the split.
 
 ### file: karate-club-assignment.ipynb
-> this file contains all the required code, analysis and visualisations.
+> this file contains all the required code, analysis and visualisations.   
 > open this notebook in a jupyter environment & run all cells from top to bottom.
 
 ### Citation-
